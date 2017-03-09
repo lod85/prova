@@ -1,0 +1,40 @@
+div p{
+	color:grey;
+}
+.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0px;
+    padding: 20px;
+} 
+a{
+	text-decoration: none;
+	color:red;
+	display: block;
+}
+a:visited{
+	color: green;
+}
+a:hover{
+	color:blue;
+	background-color: red;
+}
+.country{
+	color: red;
+	font-style: italic;
+}
+.der{
+	display: inline;
+	clear: right;
+	float: right;
+}
+.izq{
+	display: inline;
+	clear: left;
+	float: left;
+}
+.rojo{
+	color: red;
+	padding: 0.5em 1em;
+	border: dotted black 1px;
+}
